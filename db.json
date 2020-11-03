@@ -2,21 +2,7 @@
   "towns": [
     {
       "id": 1,
-      "name": "Montréal",
-      "kitchens" : [
-        {
-          "id": 1,
-          "name": "Chez Maman Magnim"
-        },
-        {
-          "id": 2,
-          "name": "Tropik Afrique"
-        },
-        {
-          "id": 1,
-          "name": "La Calebasse"
-        }
-      ]
+      "name": "Montréal"
     },
     {
       "id": 2,
@@ -36,8 +22,31 @@
     }
     
   ],
-  
-  "profile": {
-    "name": "typicode"
-  }
+  "kitchens" : [
+        {
+          "id": 1,
+          "name": "Chez Maman Magnim",
+          "townId": 2
+        },
+        {
+          "id": 2,
+          "name": "Tropik Afrique",
+          "townId": 1
+        },
+        {
+          "id": 3,
+          "name": "La Calebasse",
+          "townId": 3
+        },
+        {
+          "id": 4,
+          "name": "Black Spoon",
+          "townId": 4
+        },
+        {
+          "id": 5,
+          "name": "Le Nil Bleu",
+          "townId": 5
+        }
+      ]
 }
