@@ -2,7 +2,21 @@
   "towns": [
     {
       "id": 1,
-      "name": "Montréal"
+      "name": "Montréal",
+      "kitchens" : [
+        {
+          "id": 1,
+          "name": "Chez Maman Magnim"
+        },
+        {
+          "id": 2,
+          "name": "Tropik Afrique"
+        },
+        {
+          "id": 1,
+          "name": "La Calebasse"
+        }
+      ]
     },
     {
       "id": 2,
@@ -22,29 +36,7 @@
     }
     
   ],
-  "towns": [
-    {
-      "id": 1,
-      "name": "toto"
-    },
-    {
-      "id": 2,
-      "name": "Québec"
-    },
-    {
-      "id": 3,
-      "name": "Gatineau"
-    },    
-    {
-      "id": 4,
-      "name": "Ottawa"
-    },
-    {
-      "id": 5,
-      "name": "Trois-Rivières"
-    }
-    
-  ],
+  
   "profile": {
     "name": "typicode"
   }
