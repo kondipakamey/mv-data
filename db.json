@@ -27,7 +27,7 @@
           "id": 1,
           "name": "Chez Maman Magnim",
           "imageUrl": "assets/images/one.jpg",
-          "city": 'Montréal",
+          "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 1
         },
