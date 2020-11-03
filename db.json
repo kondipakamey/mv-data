@@ -26,27 +26,27 @@
         {
           "id": 1,
           "name": "Chez Maman Magnim",
-          "townId": 2
+          "townId": 1
         },
         {
           "id": 2,
           "name": "Tropik Afrique",
-          "townId": 1
+          "townId": 2
         },
         {
           "id": 3,
           "name": "La Calebasse",
-          "townId": 3
+          "townId": 2
         },
         {
           "id": 4,
           "name": "Black Spoon",
-          "townId": 4
+          "townId": 3
         },
         {
           "id": 5,
           "name": "Le Nil Bleu",
-          "townId": 5
+          "townId": 4
         }
       ]
 }
