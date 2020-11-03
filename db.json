@@ -22,6 +22,29 @@
     }
     
   ],
+  "towns": [
+    {
+      "id": 1,
+      "name": "toto"
+    },
+    {
+      "id": 2,
+      "name": "Québec"
+    },
+    {
+      "id": 3,
+      "name": "Gatineau"
+    },    
+    {
+      "id": 4,
+      "name": "Ottawa"
+    },
+    {
+      "id": 5,
+      "name": "Trois-Rivières"
+    }
+    
+  ],
   "profile": {
     "name": "typicode"
   }
