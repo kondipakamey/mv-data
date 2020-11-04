@@ -25,7 +25,7 @@
   "kitchens" : [
         {
           "id": 1,
-          "name": "Chez Mami",
+          "name": "Tanti D",
           "imageUrl": "assets/images/kitchen-1.jpg",
           "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
