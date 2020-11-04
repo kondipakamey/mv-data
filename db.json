@@ -26,7 +26,7 @@
         {
           "id": 1,
           "name": "Chez Maman Magnim",
-          "imageUrl": "assets/images/one.jpg",
+          "imageUrl": "assets/images/kitchen-1.jpg",
           "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 1
@@ -34,7 +34,7 @@
         {
           "id": 2,
           "name": "Tropik Afrique",
-          "imageUrl": "assets/images/one.jpg",
+          "imageUrl": "assets/images/kitchen-2.jpg",
           "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 2
@@ -42,7 +42,7 @@
         {
           "id": 3,
           "name": "La Calebasse",
-          "imageUrl": "assets/images/one.jpg",
+          "imageUrl": "assets/images/kitchen-3.jpg",
           "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 2
@@ -50,7 +50,7 @@
         {
           "id": 4,
           "name": "Black Spoon",
-          "imageUrl": "assets/images/one.jpg",
+          "imageUrl": "assets/images/kitchen-4.jpg",
           "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 3
@@ -58,7 +58,7 @@
         {
           "id": 5,
           "name": "Le Nil Bleu",
-          "imageUrl": "assets/images/one.jpg",
+          "imageUrl": "assets/images/kitchen-5.jpg",
           "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 4
