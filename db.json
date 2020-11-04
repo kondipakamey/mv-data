@@ -25,7 +25,7 @@
   "kitchens" : [
         {
           "id": 1,
-          "name": "Chez Maman Magnim",
+          "name": "Chez Mami",
           "imageUrl": "assets/images/kitchen-1.jpg",
           "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
@@ -33,7 +33,7 @@
         },
         {
           "id": 2,
-          "name": "Tropik Afrique",
+          "name": "Gbotemi",
           "imageUrl": "assets/images/kitchen-2.jpg",
           "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
@@ -41,27 +41,43 @@
         },
         {
           "id": 3,
-          "name": "La Calebasse",
+          "name": "É Kpatassé",
           "imageUrl": "assets/images/kitchen-3.jpg",
-          "city": "Montréal",
+          "city": "Québec",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 2
         },
         {
           "id": 4,
-          "name": "Black Spoon",
+          "name": "Alovi Lasso",
           "imageUrl": "assets/images/kitchen-4.jpg",
-          "city": "Montréal",
+          "city": "Gatineau",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 3
         },
         {
           "id": 5,
-          "name": "Le Nil Bleu",
+          "name": "Mamamiya",
           "imageUrl": "assets/images/kitchen-5.jpg",
-          "city": "Montréal",
+          "city": "Ottawa",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 4
+        },
+        {
+          "id": 6,
+          "name": "Ezévi Dzin",
+          "imageUrl": "assets/images/kitchen-6.jpg",
+          "city": "Montréal",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 1
+        },
+        {
+          "id": 7,
+          "name": "Ezagoorrr",
+          "imageUrl": "assets/images/kitchen-7.jpg",
+          "city": "Trois-Rivière",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 5
         }
       ]
 }
