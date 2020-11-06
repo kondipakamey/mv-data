@@ -97,8 +97,8 @@
           "name": "Sauce Gombo",
           "description": "Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens, tous adorent le poisson braisé. Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens.",
           "imageUrl": "assets/images/menus/fetridessi.jpg",
-          "price": 22,
-          "rating": 3.0,
+          "price": "22",
+          "rating": "3.0",
           "category": 1
         },
         {
@@ -106,8 +106,8 @@
           "name": "Klui Klui",
           "description": "Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens, tous adorent le poisson braisé. Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens.",
           "imageUrl": "assets/images/menus/kluiklui.jpg",
-          "price": 15,
-          "rating": 2.9,
+          "price": "15",
+          "rating": "2.9",
           "category": 3
         }
       ]
