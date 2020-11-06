@@ -91,7 +91,7 @@
   "menus" : [
     {
       "kitchenId": 1,
-      menus: [
+      "menus": [
         {
           "id": 1,
           "name": "gombo"
@@ -100,7 +100,7 @@
     },
     {
       "kitchenId": 2,
-      menus: [
+      "menus": [
         {
           "id": 2,
           "name": "gbofloto"
