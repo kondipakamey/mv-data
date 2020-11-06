@@ -88,24 +88,5 @@
           "townId": 4
         }
       ],
-  "menus" : [
-    {
-      "kitchenId": 1,
-      "menus": [
-        {
-          "id": 1,
-          "name": "gombo"
-        }
-      ]
-    },
-    {
-      "kitchenId": 2,
-      "menus": [
-        {
-          "id": 2,
-          "name": "gbofloto"
-        }
-      ]
-    }
-  ]
+  
 }
