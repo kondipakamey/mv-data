@@ -95,7 +95,7 @@
         {
           "id": 1,
           "name": "Sauce Gombo",
-          "description": "Elle est appelée soupoukandja au Sénégal, kopé en Côte d'Ivoire, takou en Guinée-Bissau, fetri dessi au Togo ou encore daraba au Tchad. Elle peut être préparé avec de la viande et/ou des fruits de mer. Souvent elle est accompagnée de riz, foutou ou de couscous.",
+          "description": "Elle est appelée soupoukandja au Sénégal, kopé en Côte d'Ivoire, takou en Guinée-Bissau, fetri dessi au Togo ou encore daraba au Tchad. Elle peut être préparé avec de la viande et/ou des fruits de mer.",
           "imageUrl": "assets/images/menus/fetridessi.jpg",
           "price": "22",
           "rating": "3.0",
@@ -113,7 +113,7 @@
         {
           "id": 3,
           "name": "Botokoin",
-          "description": "Gbofloto en Côte d’Ivoire, Botokoin au Togo, Doko au Benin ou Puff-Puff au Nigeria, ils se dégustent au petit déjeuner comme au Goûter ou juste quand on a une petite envie de beignets. Les possibilités d’accompagnement pour le Gbofloto sont nombreuses à savoir la bouillie, le thé, le café et toute sorte de cocktails.",
+          "description": "Gbofloto en Côte d’Ivoire, Botokoin au Togo, Doko au Benin ou Puff-Puff au Nigeria. Les possibilités d’accompagnement pour le Gbofloto sont nombreuses à savoir la bouillie, le thé, le café et toute sorte de cocktails.",
           "imageUrl": "assets/images/menus/gbofloto.jpg",
           "price": "22",
           "rating": "3.0",
