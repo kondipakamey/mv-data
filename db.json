@@ -78,14 +78,6 @@
       "city": "Ottawa",
       "description": "Visit Venice for an amazing and unforgettable adventure.",
       "townId": 4
-    },
-    {
-      "id": 8,
-      "name": "Ezagoorrr",
-      "imageUrl": "assets/images/kitchen-7.jpg",
-      "city": "Trois-Rivière",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 5
     }
   ],
   "menus" : [
