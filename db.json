@@ -32,7 +32,7 @@
           "townId": 1
         },
         {
-          "id": 6,
+          "id": 2,
           "name": "Ezévi Dzin",
           "imageUrl": "assets/images/kitchen-6.jpg",
           "city": "Montréal",
@@ -40,7 +40,7 @@
           "townId": 1
         },
          {
-          "id": 8,
+          "id": 3,
           "name": "Ezagoorrr",
           "imageUrl": "assets/images/kitchen-7.jpg",
           "city": "Montréal",
@@ -48,7 +48,7 @@
           "townId": 1
         },
         {
-          "id": 2,
+          "id": 4,
           "name": "Gbotemi",
           "imageUrl": "assets/images/kitchen-2.jpg",
           "city": "Montréal",
@@ -56,7 +56,7 @@
           "townId": 2
         },
         {
-          "id": 3,
+          "id": 5,
           "name": "É Kpatassé",
           "imageUrl": "assets/images/kitchen-3.jpg",
           "city": "Québec",
@@ -64,7 +64,7 @@
           "townId": 2
         },
         {
-          "id": 4,
+          "id": 6,
           "name": "Alovi Lasso",
           "imageUrl": "assets/images/kitchen-4.jpg",
           "city": "Gatineau",
@@ -72,7 +72,7 @@
           "townId": 3
         },
         {
-          "id": 5,
+          "id": 7,
           "name": "Mamamiya",
           "imageUrl": "assets/images/kitchen-5.jpg",
           "city": "Ottawa",
@@ -80,7 +80,7 @@
           "townId": 4
         },
         {
-          "id": 7,
+          "id": 8,
           "name": "Ezagoorrr",
           "imageUrl": "assets/images/kitchen-7.jpg",
           "city": "Trois-Rivière",
