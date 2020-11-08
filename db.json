@@ -23,62 +23,62 @@
     
   ],
   "kitchens" : [
-    {
-      "id": 1,
-      "name": "Tanti D",
-      "imageUrl": "assets/images/kitchen-1.jpg",
-      "city": "Montréal",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 1
-    },
-    {
-      "id": 2,
-      "name": "Ezévi Dzin",
-      "imageUrl": "assets/images/kitchen-6.jpg",
-      "city": "Montréal",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 1
-    },
-    {
-      "id": 4,
-      "name": "Gbotemi",
-      "imageUrl": "assets/images/kitchen-2.jpg",
-      "city": "Montréal",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 2
-    },
-    {
-      "id": 5,
-      "name": "É Kpatassé",
-      "imageUrl": "assets/images/kitchen-3.jpg",
-      "city": "Québec",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 2
-    },
-    {
-      "id": 6,
-      "name": "Alovi Lasso",
-      "imageUrl": "assets/images/kitchen-4.jpg",
-      "city": "Gatineau",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 3
-    },
-    {
-      "id": 7,
-      "name": "Mamamiya",
-      "imageUrl": "assets/images/kitchen-5.jpg",
-      "city": "Ottawa",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 4
-    },
-    {
-      "id": 8,
-      "name": "Mamamiya",
-      "imageUrl": "assets/images/kitchen-6.jpg",
-      "city": "Ottawa",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 5
-    }
+        {
+          "id": 1,
+          "name": "Tanti D",
+          "imageUrl": "assets/images/kitchen-1.jpg",
+          "city": "Montréal",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 1
+        },
+        {
+          "id": 2,
+          "name": "Ezévi Dzin",
+          "imageUrl": "assets/images/kitchen-6.jpg",
+          "city": "Montréal",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 1
+        },
+        {
+          "id": 4,
+          "name": "Gbotemi",
+          "imageUrl": "assets/images/kitchen-2.jpg",
+          "city": "Montréal",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 2
+        },
+        {
+          "id": 5,
+          "name": "É Kpatassé",
+          "imageUrl": "assets/images/kitchen-3.jpg",
+          "city": "Québec",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 2
+        },
+        {
+          "id": 6,
+          "name": "Alovi Lasso",
+          "imageUrl": "assets/images/kitchen-4.jpg",
+          "city": "Gatineau",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 3
+        },
+        {
+          "id": 7,
+          "name": "Mamamiya",
+          "imageUrl": "assets/images/kitchen-5.jpg",
+          "city": "Ottawa",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 4
+        },
+        {
+          "id": 8,
+          "name": "Mamamiya",
+          "imageUrl": "assets/images/kitchen-6.jpg",
+          "city": "Ottawa",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 5
+        }
   ],
   "menus" : [
     {
