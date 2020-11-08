@@ -94,14 +94,6 @@
           "city": "Trois-Rivière",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 1
-        },
-        {
-          "id": 10,
-          "name": "Va Chez Papa",
-          "imageUrl": "assets/images/kitchen-8.jpg",
-          "city": "Ottawa",
-          "description": "Visit Venice for an amazing and unforgettable adventure.",
-          "townId": 1
         }
       ],
   "menus" : [
