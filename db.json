@@ -80,18 +80,10 @@
           "townId": 5
         },
         {
-          "id": 8,
-          "name": "Va Chez Papa",
-          "imageUrl": "assets/images/kitchen-8.jpg",
-          "city": "Ottawa",
-          "description": "Visit Venice for an amazing and unforgettable adventure.",
-          "townId": 1
-        },
-        {
           "id": 9,
           "name": "Ezagoorrr",
           "imageUrl": "assets/images/kitchen-7.jpg",
-          "city": "Trois-Rivière",
+          "city": "Montréal",
           "description": "Visit Venice for an amazing and unforgettable adventure.",
           "townId": 1
         }
