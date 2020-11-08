@@ -39,14 +39,6 @@
       "description": "Visit Venice for an amazing and unforgettable adventure.",
       "townId": 1
     },
-     {
-      "id": 3,
-      "name": "Ezagoorrr",
-      "imageUrl": "assets/images/kitchen-7.jpg",
-      "city": "Montréal",
-      "description": "Visit Venice for an amazing and unforgettable adventure.",
-      "townId": 1
-    },
     {
       "id": 4,
       "name": "Gbotemi",
@@ -78,6 +70,14 @@
       "city": "Ottawa",
       "description": "Visit Venice for an amazing and unforgettable adventure.",
       "townId": 4
+    },
+    {
+      "id": 8,
+      "name": "Mamamiya",
+      "imageUrl": "assets/images/kitchen-6.jpg",
+      "city": "Ottawa",
+      "description": "Visit Venice for an amazing and unforgettable adventure.",
+      "townId": 5
     }
   ],
   "menus" : [
