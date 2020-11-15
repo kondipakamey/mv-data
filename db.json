@@ -48,6 +48,14 @@
           "townId": 1
         },
         {
+          "id": 10,
+          "name": "Mamamiya",
+          "imageUrl": "assets/images/kitchen-5.jpg",
+          "city": "Ottawa",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 1
+        },
+        {
           "id": 4,
           "name": "Gbotemi",
           "imageUrl": "assets/images/kitchen-2.jpg",
