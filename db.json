@@ -40,6 +40,14 @@
           "townId": 1
         },
         {
+          "id": 9,
+          "name": "É Kpatassé",
+          "imageUrl": "assets/images/kitchen-3.jpg",
+          "city": "Québec",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 1
+        },
+        {
           "id": 4,
           "name": "Gbotemi",
           "imageUrl": "assets/images/kitchen-2.jpg",
