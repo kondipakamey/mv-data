@@ -48,6 +48,14 @@
           "townId": 1
         },
         {
+          "id": 10,
+          "name": "Alovi Lasso",
+          "imageUrl": "assets/images/kitchen-4.jpg",
+          "city": "Gatineau",
+          "description": "Visit Venice for an amazing and unforgettable adventure.",
+          "townId": 1
+        },
+        {
           "id": 4,
           "name": "Gbotemi",
           "imageUrl": "assets/images/kitchen-2.jpg",
