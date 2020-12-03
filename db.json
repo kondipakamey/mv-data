@@ -137,7 +137,7 @@
           "category": 1
         },
         {
-          "id": 3,
+          "id": 5,
           "name": "Botokoin",
           "description": "Gbofloto en Côte d’Ivoire, Botokoin au Togo, Doko au Benin ou Puff-Puff au Nigeria. Les possibilités d’accompagnement pour le Gbofloto sont nombreuses à savoir la bouillie, le thé, le café et toute sorte de cocktails.",
           "imageUrl": "assets/images/menus/gbofloto.jpg",
@@ -146,7 +146,7 @@
           "category": 3
         },
         {
-          "id": 4,
+          "id": 6,
           "name": "Klui Klui",
           "description": "Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens, tous adorent le poisson braisé. Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens.",
           "imageUrl": "assets/images/menus/kluiklui.jpg",
@@ -155,7 +155,7 @@
           "category": 3
         },
         {
-          "id": 1,
+          "id": 7,
           "name": "Sauce Gombo",
           "description": "Elle est appelée soupoukandja au Sénégal, kopé en Côte d'Ivoire, takou en Guinée-Bissau, fetri dessi au Togo ou encore daraba au Tchad. Elle peut être préparé avec de la viande et/ou des fruits de mer.",
           "imageUrl": "assets/images/menus/fetridessi.jpg",
@@ -164,7 +164,7 @@
           "category": 3
         },
         {
-          "id": 2,
+          "id": 8,
           "name": "Poisson Braisé",
           "description": "Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens, tous adorent le poisson braisé. Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens.",
           "imageUrl": "assets/images/menus/attieke.jpg",
