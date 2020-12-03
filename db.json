@@ -125,6 +125,24 @@
           "imageUrl": "assets/images/menus/gbofloto.jpg",
           "price": "22",
           "rating": "3.0",
+          "category": 1
+        },
+        {
+          "id": 4,
+          "name": "Klui Klui",
+          "description": "Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens, tous adorent le poisson braisé. Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens.",
+          "imageUrl": "assets/images/menus/kluiklui.jpg",
+          "price": "15",
+          "rating": "2.9",
+          "category": 1
+        },
+        {
+          "id": 3,
+          "name": "Botokoin",
+          "description": "Gbofloto en Côte d’Ivoire, Botokoin au Togo, Doko au Benin ou Puff-Puff au Nigeria. Les possibilités d’accompagnement pour le Gbofloto sont nombreuses à savoir la bouillie, le thé, le café et toute sorte de cocktails.",
+          "imageUrl": "assets/images/menus/gbofloto.jpg",
+          "price": "22",
+          "rating": "3.0",
           "category": 3
         },
         {
