@@ -174,36 +174,36 @@
         },
         {
           "id": 9,
-          "name": "Botokoin",
+          "name": "Ablo",
           "description": "Gbofloto en Côte d’Ivoire, Botokoin au Togo, Doko au Benin ou Puff-Puff au Nigeria. Les possibilités d’accompagnement pour le Gbofloto sont nombreuses à savoir la bouillie, le thé, le café et toute sorte de cocktails.",
-          "imageUrl": "assets/images/menus/gbofloto.jpg",
+          "imageUrl": "assets/images/menus/ablo.png",
           "price": "22",
           "rating": "3.0",
           "category": 3
         },
         {
           "id": 10,
-          "name": "Klui Klui",
+          "name": "Ademe",
           "description": "Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens, tous adorent le poisson braisé. Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens.",
-          "imageUrl": "assets/images/menus/kluiklui.jpg",
+          "imageUrl": "assets/images/menus/ademe.png",
           "price": "15",
           "rating": "2.9",
           "category": 3
         },
         {
           "id": 11,
-          "name": "Sauce Gombo",
+          "name": "Ahaio",
           "description": "Elle est appelée soupoukandja au Sénégal, kopé en Côte d'Ivoire, takou en Guinée-Bissau, fetri dessi au Togo ou encore daraba au Tchad. Elle peut être préparé avec de la viande et/ou des fruits de mer.",
-          "imageUrl": "assets/images/menus/fetridessi.jpg",
+          "imageUrl": "assets/images/menus/ahaio.jpg",
           "price": "22",
           "rating": "3.0",
           "category": 3
         },
         {
           "id": 12,
-          "name": "Poisson Braisé",
+          "name": "Poulet Braise",
           "description": "Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens, tous adorent le poisson braisé. Que ça soit les Camerounais, les Togolais, les Ivoiriens, les Sénégalais, les Maliens ou les Guinéens.",
-          "imageUrl": "assets/images/menus/attieke.jpg",
+          "imageUrl": "assets/images/menus/pouletbraise.jpg",
           "price": "22",
           "rating": "3.0",
           "category": 3
